@@ -14,3 +14,5 @@ const printOutBreedDes = (des) => {
 }
 
 breedDetailsFromFile('Bombay', printOutBreedDes)
+
+module.exports =  breedDetailsFromFile;
